@@ -1,8 +1,8 @@
-New Year Countdown to 2026
+# New Year Countdown to 2026
 
 A clean, simple, and responsive countdown timer to midnight, January 1, 2026. This project is built with vanilla HTML, CSS, and JavaScript, making it lightweight and easy to customize.
 
-🚀 Features
+# 🚀 Features
 
 Real-Time Countdown: Accurately displays the remaining days, hours, minutes, and seconds until the New Year.
 
@@ -14,7 +14,7 @@ Easy to Customize: Clean code and CSS variables make it simple to change the loo
 
 Dynamic Update: The countdown ticks every second without needing a page refresh.
 
-🛠️ Technologies Used
+# 🛠️ Technologies Used
 
 This project relies on core web technologies:
 
@@ -24,7 +24,7 @@ CSS3: For styling, layout (using Flexbox/Grid), and responsiveness.
 
 JavaScript (ES6+): For the countdown logic and dynamic content updates.
 
-Usage
+# Usage
 
 To use this project, you can either:
 
@@ -44,7 +44,7 @@ cd new-year-countdown-2026
 
 Open the index.html file in your favorite web browser.
 
-📂 Project Structure
+# 📂 Project Structure
 
 new-year-countdown-2026/
 ├── index.html       # The main HTML file
@@ -53,7 +53,7 @@ new-year-countdown-2026/
 └── README.md        # You are here!
 
 
-🤝 Contributing
+# 🤝 Contributing
 
 Contributions are welcome! Whether it's fixing a bug, improving the styling, or adding a new feature, feel free to make a pull request.
 
